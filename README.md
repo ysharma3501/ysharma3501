@@ -1,6 +1,6 @@
 # Hi there, I'm Yatharth 👋
 
-I am a 16-year-old AI researcher focused on pushing the boundaries of generative audio and speech synthesis. My work centers on building high-performance, efficient architectures for TTS and neural audio restoration.
+I am an AI researcher focused on pushing the boundaries of generative audio and speech synthesis. My work centers on building high-performance, efficient architectures for TTS and neural audio restoration.
 
 ### Research & Projects
 I specialize in developing novel architectures for speech and rapid inference. Some of my key work includes:
