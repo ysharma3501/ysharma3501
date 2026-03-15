@@ -17,4 +17,4 @@ I specialize in developing novel architectures for speech and rapid inference. S
 I am actively looking to collaborate on **writing and publishing research papers** in the deep learning and audio DSP space. If you're working on novel speech architectures or efficient transformer scaling, would be happy to connect.
 
 ---
-[**GitHub**](https://github.com/ysharma) | [**X / Twitter**](https://x.com/Yatharth3501) | [**LinkedIn**](https://www.linkedin.com/in/yatharth-sharma-bb9440397/)
+[**GitHub**](https://github.com/ysharma3501) | [**X / Twitter**](https://x.com/Yatharth3501) | [**LinkedIn**](https://www.linkedin.com/in/yatharth-sharma-bb9440397/)
