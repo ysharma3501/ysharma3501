@@ -1,6 +1,6 @@
 # Hi there, I'm Yatharth 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ysharma3501&hide=prs,contribs&hide_rank=true)
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=ysharma3501&hide=prs,contribs&hide_rank=true)
 
 I am an AI researcher focused on pushing the boundaries of generative audio and speech synthesis. My work centers on building high-performance, efficient architectures for TTS and neural audio restoration.
 
